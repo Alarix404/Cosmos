@@ -1,0 +1,17 @@
+{
+    "name": "Cosmos",
+    "version": "1.0.0",
+    "description": "Cosmos Bot",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "engines": {
+      "node": "16.x"
+    },
+    "author": "AlarixDev",
+    "license": "ISC",
+    "dependencies": {
+      "aoi.js": "^6.0.0"
+    }
+  }
