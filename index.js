@@ -5,7 +5,7 @@ console.log('node.js version - '+ process.version);
 const aoijs = require("aoi.js")
 
 const bot = new aoijs.AoiClient({
-token: "OTA3OTkzMzkyMzUxNDIwNDM2.GOYfog.dX6o2R_BD7th08QYvnRqkssQjoE5iInrvz_P1E",
+token: "🪨",
 prefix: ['$getservervar[Prefix]','<@$clientID>'],
 intents: "all"
 })
